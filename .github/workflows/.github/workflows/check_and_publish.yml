@@ -2,8 +2,8 @@ name: 텔레그램 선택 확인 및 인스타그램 업로드
 
 on:
   # 인스타그램 토큰(IG_ACCESS_TOKEN, IG_BUSINESS_ACCOUNT_ID) 등록 후 아래 스케줄 주석을 풀어주세요.
-  # schedule:
-  #   - cron: "*/15 * * * *"
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
 
 permissions:
