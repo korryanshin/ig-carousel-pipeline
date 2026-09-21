@@ -1,0 +1,68 @@
+name: 텔레그램 선택 확인 및 인스타그램 업로드
+
+on:
+  # 인스타그램 토큰(IG_ACCESS_TOKEN, IG_BUSINESS_ACCOUNT_ID) 등록 후 아래 스케줄 주석을 풀어주세요.
+  # schedule:
+  #   - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 한글 폰트 설치
+        run: sudo apt-get update -y && sudo apt-get install -y fonts-noto-cjk
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 텔레그램 선택 확인 및 이미지 생성
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+        run: python3 check_selection.py
+
+      - name: 생성된 이미지/상태 커밋 (raw URL로 공개되도록)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/ output/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: 캐러셀 이미지 생성 및 상태 갱신"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: CDN 반영 대기
+        if: steps.commit.outputs.changed == 'true'
+        run: sleep 15
+
+      - name: 인스타그램 업로드
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 publish_to_instagram.py
+
+      - name: published.json 커밋
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          git add output/
+          git diff --cached --quiet || git commit -m "chore: 게시 완료 기록"
+          git push || true
