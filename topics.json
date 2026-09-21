@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-21T08:44:35.946966+00:00",
+  "generated_at": "2026-09-21T08:46:17.537520+00:00",
   "topics": [
+    {
+      "title": "Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)",
+      "link": "https://www.techmeme.com/260921/p10#a260921p10",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-09-21T04:45:01-04:00",
+      "score": 5.996
+    },
     {
       "title": "Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)",
       "link": "https://www.techmeme.com/260921/p9#a260921p9",
       "source": "https://www.techmeme.com/feed.xml",
       "published": "2026-09-21T04:20:51-04:00",
-      "score": 5.918
+      "score": 5.912
     },
     {
       "title": "South Korea reopens a program letting AI talent fulfill their military obligations by doing research in corporate labs instead of conventional military service (Jo He-rim/The Korea Herald)",
       "link": "https://www.techmeme.com/260921/p8#a260921p8",
       "source": "https://www.techmeme.com/feed.xml",
       "published": "2026-09-21T04:10:01-04:00",
-      "score": 5.88
-    },
-    {
-      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-      "link": "https://twitter.com/LundukeJournal/status/2101841277432070210",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-09-21T07:59:18+00:00",
-      "score": 5.843
+      "score": 5.874
     },
     {
       "title": "How the Clarity Act, heavily lobbied by Coinbase's Brian Armstrong and the crypto industry, and opposed by banks over stablecoin yields, collapsed in the Senate (Wall Street Journal)",
       "link": "https://www.techmeme.com/260921/p7#a260921p7",
       "source": "https://www.techmeme.com/feed.xml",
       "published": "2026-09-21T03:55:01-04:00",
-      "score": 5.828
+      "score": 5.822
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "link": "https://github.com/jaredpalmer/kev/tree/main",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-09-21T07:11:55+00:00",
-      "score": 5.678
+      "title": "China collected $32.3B of stamp duty on stock sales between January and August, up 80%+ YoY, as average daily trading value rose 72%, amid an AI trading frenzy (Zhang Shidong/South China Morning Post)",
+      "link": "https://www.techmeme.com/260921/p6#a260921p6",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-09-21T02:05:35-04:00",
+      "score": 5.442
     }
   ]
 }
