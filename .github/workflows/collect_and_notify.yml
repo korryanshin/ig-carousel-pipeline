@@ -1,0 +1,40 @@
+name: 주제 수집 및 텔레그램 발송
+
+on:
+  schedule:
+    # 매일 00:00 UTC = 한국시간(KST) 오전 9시
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}  # 수동 실행 버튼도 사용 가능
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 주제 수집
+        run: python3 collect_topics.py
+
+      - name: 텔레그램 발송
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 send_to_telegram.py
+
+      - name: topics.json 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add topics.json
+          git diff --cached --quiet || git commit -m "chore: 오늘의 주제 후보 갱신"
+          git push
