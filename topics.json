@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-21T08:46:17.537520+00:00",
+  "generated_at": "2026-09-22T00:20:01.967379+00:00",
   "topics": [
     {
-      "title": "Big Tech is increasingly using residual value guarantees for off-balance sheet AI spend, giving Nvidia and Broadcom a way to support their customers' purchases (Financial Times)",
-      "link": "https://www.techmeme.com/260921/p10#a260921p10",
+      "title": "Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260921/p55#a260921p55",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T04:45:01-04:00",
-      "score": 5.996
+      "published": "2026-09-21T19:55:00-04:00",
+      "score": 5.913
     },
     {
-      "title": "Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)",
-      "link": "https://www.techmeme.com/260921/p9#a260921p9",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T04:20:51-04:00",
-      "score": 5.912
+      "title": "Spymarks, Not Watermarks",
+      "link": "https://brand.io/article/spymarks/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-09-21T23:03:49+00:00",
+      "score": 5.735
     },
     {
-      "title": "South Korea reopens a program letting AI talent fulfill their military obligations by doing research in corporate labs instead of conventional military service (Jo He-rim/The Korea Herald)",
-      "link": "https://www.techmeme.com/260921/p8#a260921p8",
+      "title": "A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)",
+      "link": "https://www.techmeme.com/260921/p54#a260921p54",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T04:10:01-04:00",
-      "score": 5.874
+      "published": "2026-09-21T19:00:01-04:00",
+      "score": 5.722
     },
     {
-      "title": "How the Clarity Act, heavily lobbied by Coinbase's Brian Armstrong and the crypto industry, and opposed by banks over stablecoin yields, collapsed in the Senate (Wall Street Journal)",
-      "link": "https://www.techmeme.com/260921/p7#a260921p7",
+      "title": "British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police (Georgia Wells/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260921/p53#a260921p53",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T03:55:01-04:00",
-      "score": 5.822
+      "published": "2026-09-21T18:55:02-04:00",
+      "score": 5.705
     },
     {
-      "title": "China collected $32.3B of stamp duty on stock sales between January and August, up 80%+ YoY, as average daily trading value rose 72%, amid an AI trading frenzy (Zhang Shidong/South China Morning Post)",
-      "link": "https://www.techmeme.com/260921/p6#a260921p6",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T02:05:35-04:00",
-      "score": 5.442
+      "title": "Data Protection Commission fines Google €403M over processing of location data",
+      "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-09-21T22:33:45+00:00",
+      "score": 5.631
     }
   ]
 }
