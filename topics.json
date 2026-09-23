@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-22T00:20:01.967379+00:00",
+  "generated_at": "2026-09-23T00:19:40.206755+00:00",
   "topics": [
     {
-      "title": "Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay (Kelly Cloonan/Wall Street Journal)",
-      "link": "https://www.techmeme.com/260921/p55#a260921p55",
+      "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
+      "link": "https://www.techmeme.com/260922/p58#a260922p58",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T19:55:00-04:00",
-      "score": 5.913
+      "published": "2026-09-22T20:10:01-04:00",
+      "score": 5.966
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "link": "https://brand.io/article/spymarks/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-09-21T23:03:49+00:00",
-      "score": 5.735
-    },
-    {
-      "title": "A researcher says a flaw in Meta's Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account (Dan Goodin/Ars Technica)",
-      "link": "https://www.techmeme.com/260921/p54#a260921p54",
+      "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
+      "link": "https://www.techmeme.com/260922/p57#a260922p57",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T19:00:01-04:00",
-      "score": 5.722
+      "published": "2026-09-22T19:25:14-04:00",
+      "score": 5.811
     },
     {
-      "title": "British Columbia sues OpenAI for alleged safety violations and negligence for failing to flag the Tumbler Ridge shooting suspect's ChatGPT activity to police (Georgia Wells/Wall Street Journal)",
-      "link": "https://www.techmeme.com/260921/p53#a260921p53",
+      "title": "Will a switch to light speed cut power use at data centres?",
+      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-09-22T23:03:48+00:00",
+      "score": 5.737
+    },
+    {
+      "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)",
+      "link": "https://www.techmeme.com/260922/p56#a260922p56",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-21T18:55:02-04:00",
-      "score": 5.705
+      "published": "2026-09-22T18:50:01-04:00",
+      "score": 5.689
     },
     {
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "link": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-09-21T22:33:45+00:00",
-      "score": 5.631
+      "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
+      "link": "https://www.techmeme.com/260922/p55#a260922p55",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-09-22T18:35:02-04:00",
+      "score": 5.637
     }
   ]
 }
