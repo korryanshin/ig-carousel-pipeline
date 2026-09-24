@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-23T00:19:40.206755+00:00",
+  "generated_at": "2026-09-24T00:20:22.132398+00:00",
   "topics": [
     {
-      "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
-      "link": "https://www.techmeme.com/260922/p58#a260922p58",
+      "title": "Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2-inch OLED screen, front and rear cameras, and 5G, on sale by year's end (Mark Gurman/Bloomberg)",
+      "link": "https://www.techmeme.com/260923/p51#a260923p51",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-22T20:10:01-04:00",
-      "score": 5.966
+      "published": "2026-09-23T20:15:02-04:00",
+      "score": 5.981
     },
     {
-      "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
-      "link": "https://www.techmeme.com/260922/p57#a260922p57",
+      "title": "Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 (Mark Gurman/Bloomberg)",
+      "link": "https://www.techmeme.com/260923/p50#a260923p50",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-22T19:25:14-04:00",
-      "score": 5.811
+      "published": "2026-09-23T19:56:05-04:00",
+      "score": 5.916
     },
     {
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta VR Glasses",
+      "link": "https://www.meta.com/vr-glasses/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-09-23T23:47:56+00:00",
+      "score": 5.887
+    },
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-22T23:03:48+00:00",
-      "score": 5.737
+      "published": "2026-09-23T23:44:58+00:00",
+      "score": 5.877
     },
     {
-      "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)",
-      "link": "https://www.techmeme.com/260922/p56#a260922p56",
+      "title": "Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year (Cheyenne MacDonald/Engadget)",
+      "link": "https://www.techmeme.com/260923/p49#a260923p49",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-22T18:50:01-04:00",
-      "score": 5.689
-    },
-    {
-      "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
-      "link": "https://www.techmeme.com/260922/p55#a260922p55",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-22T18:35:02-04:00",
-      "score": 5.637
+      "published": "2026-09-23T19:40:52-04:00",
+      "score": 5.863
     }
   ]
 }
