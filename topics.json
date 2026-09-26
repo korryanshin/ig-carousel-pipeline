@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-25T00:21:55.574785+00:00",
+  "generated_at": "2026-09-26T00:19:52.837502+00:00",
   "topics": [
     {
-      "title": "Databricks acquires spreadsheet startup Row Zero to expand the capabilities of its AI coworker Genie; Row Zero raised a $10M seed led by IA Ventures last year (Chris Metinko/Axios)",
-      "link": "https://www.techmeme.com/260924/p52#a260924p52",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-24T20:05:01-04:00",
-      "score": 5.941
-    },
-    {
-      "title": "GitLab Outage",
-      "link": "https://status.gitlab.com/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-09-24T23:10:44+00:00",
-      "score": 5.753
-    },
-    {
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-24T23:03:53+00:00",
-      "score": 5.729
+      "published": "2026-09-26T00:09:45+00:00",
+      "score": 5.965
     },
     {
-      "title": "Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says \"user funds are safe\" (Matthew Brockett/Bloomberg)",
-      "link": "https://www.techmeme.com/260924/p51#a260924p51",
+      "title": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+      "link": "https://www.techmeme.com/260925/p25#a260925p25",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-24T19:00:34-04:00",
-      "score": 5.718
+      "published": "2026-09-25T20:00:47-04:00",
+      "score": 5.934
     },
     {
-      "title": "Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes (The Information)",
-      "link": "https://www.techmeme.com/260924/p50#a260924p50",
+      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-09-25T23:34:20+00:00",
+      "score": 5.842
+    },
+    {
+      "title": "Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison (Brian Krebs/Krebs on Security)",
+      "link": "https://www.techmeme.com/260925/p24#a260925p24",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-24T18:45:00-04:00",
-      "score": 5.663
+      "published": "2026-09-25T19:00:35-04:00",
+      "score": 5.725
+    },
+    {
+      "title": "TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met (Gnaneshwar Rajan/Reuters)",
+      "link": "https://www.techmeme.com/260925/p23#a260925p23",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-09-25T18:55:01-04:00",
+      "score": 5.705
     }
   ]
 }
