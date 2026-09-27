@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-26T00:19:52.837502+00:00",
+  "generated_at": "2026-09-27T00:22:08.047040+00:00",
   "topics": [
     {
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-26T00:09:45+00:00",
-      "score": 5.965
-    },
-    {
-      "title": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
-      "link": "https://www.techmeme.com/260925/p25#a260925p25",
+      "title": "Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts (Tom Wilson/Financial Times)",
+      "link": "https://www.techmeme.com/260926/p18#a260926p18",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-25T20:00:47-04:00",
-      "score": 5.934
+      "published": "2026-09-26T20:20:09-04:00",
+      "score": 5.993
     },
     {
-      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-25T23:34:20+00:00",
-      "score": 5.842
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-09-26T20:08:50+00:00",
+      "score": 5.12
     },
     {
-      "title": "Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison (Brian Krebs/Krebs on Security)",
-      "link": "https://www.techmeme.com/260925/p24#a260925p24",
+      "title": "Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more (Pranshu Verma/Washington Post)",
+      "link": "https://www.techmeme.com/260926/p17#a260926p17",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-25T19:00:35-04:00",
-      "score": 5.725
+      "published": "2026-09-26T15:50:00-04:00",
+      "score": 5.055
     },
     {
-      "title": "TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met (Gnaneshwar Rajan/Reuters)",
-      "link": "https://www.techmeme.com/260925/p23#a260925p23",
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "link": "https://tml.stanford.edu/homebody/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-09-26T18:42:10+00:00",
+      "score": 4.82
+    },
+    {
+      "title": "Meta says its rejection of ads promoting the new documentary about Elon Musk \"was an error and the ads are being restored\"; YouTube is also allowing the ads (Anthony Ha/TechCrunch)",
+      "link": "https://www.techmeme.com/260926/p16#a260926p16",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-25T18:55:01-04:00",
-      "score": 5.705
+      "published": "2026-09-26T14:35:02-04:00",
+      "score": 4.795
     }
   ]
 }
