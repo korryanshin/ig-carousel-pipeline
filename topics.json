@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-29T00:21:41.834621+00:00",
+  "generated_at": "2026-09-30T00:22:39.546918+00:00",
   "topics": [
     {
-      "title": "Sen. Blumenthal-led report: Tether's USDT is central to Iran's shadow banking system; 87% of 757 \"terrorism\"-related wallets predominantly transacted in USDT (Sarah Wynn/The Block)",
-      "link": "https://www.techmeme.com/260928/p43#a260928p43",
+      "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)",
+      "link": "https://www.techmeme.com/260929/p56#a260929p56",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-28T20:15:01-04:00",
-      "score": 5.977
+      "published": "2026-09-29T20:00:49-04:00",
+      "score": 5.924
     },
     {
-      "title": "Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June (Wall Street Journal)",
-      "link": "https://www.techmeme.com/260928/p42#a260928p42",
+      "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)",
+      "link": "https://www.techmeme.com/260929/p55#a260929p55",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-28T19:56:13-04:00",
-      "score": 5.912
+      "published": "2026-09-29T19:50:01-04:00",
+      "score": 5.887
     },
     {
-      "title": "Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist (Garrett Downs/CNBC)",
-      "link": "https://www.techmeme.com/260928/p41#a260928p41",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-28T19:55:10-04:00",
-      "score": 5.908
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-09-29T23:47:10+00:00",
+      "score": 5.877
     },
     {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-09-28T23:40:59+00:00",
-      "score": 5.859
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-09-29T23:15:29+00:00",
+      "score": 5.767
     },
     {
-      "title": "IPO prospectus: Anthropic reports a net loss of $42B in 2025 and plans to spend $518B on cloud, computing, and infrastructure obligations in the coming year (Echo Wang/Reuters)",
-      "link": "https://www.techmeme.com/260928/p40#a260928p40",
+      "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together (Ronan Shields/Digiday)",
+      "link": "https://www.techmeme.com/260929/p54#a260929p54",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-28T19:40:10-04:00",
-      "score": 5.856
+      "published": "2026-09-29T19:15:01-04:00",
+      "score": 5.765
     }
   ]
 }
