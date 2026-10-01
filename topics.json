@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-09-30T00:22:39.546918+00:00",
+  "generated_at": "2026-10-01T00:23:58.968742+00:00",
   "topics": [
     {
-      "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)",
-      "link": "https://www.techmeme.com/260929/p56#a260929p56",
+      "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)",
+      "link": "https://www.techmeme.com/260930/p52#a260930p52",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-29T20:00:49-04:00",
-      "score": 5.924
+      "published": "2026-09-30T20:10:00-04:00",
+      "score": 5.951
     },
     {
-      "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)",
-      "link": "https://www.techmeme.com/260929/p55#a260929p55",
+      "title": "Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)",
+      "link": "https://www.techmeme.com/260930/p51#a260930p51",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-29T19:50:01-04:00",
-      "score": 5.887
+      "published": "2026-09-30T19:55:02-04:00",
+      "score": 5.899
     },
     {
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "title": "Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a \"distraction\" at OpenAI (New York Times)",
+      "link": "https://www.techmeme.com/260930/p50#a260930p50",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-09-30T19:20:01-04:00",
+      "score": 5.778
+    },
+    {
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-29T23:47:10+00:00",
-      "score": 5.877
+      "published": "2026-09-30T23:10:19+00:00",
+      "score": 5.744
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "title": "The AI telling farmers when to harvest",
+      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-29T23:15:29+00:00",
-      "score": 5.767
-    },
-    {
-      "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together (Ronan Shields/Digiday)",
-      "link": "https://www.techmeme.com/260929/p54#a260929p54",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-29T19:15:01-04:00",
-      "score": 5.765
+      "published": "2026-09-30T23:02:21+00:00",
+      "score": 5.717
     }
   ]
 }
