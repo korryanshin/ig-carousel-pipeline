@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-01T00:23:58.968742+00:00",
+  "generated_at": "2026-10-02T00:22:40.292938+00:00",
   "topics": [
     {
-      "title": "California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers (Paxton Honerkamp/CNBC)",
-      "link": "https://www.techmeme.com/260930/p52#a260930p52",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-30T20:10:00-04:00",
-      "score": 5.951
-    },
-    {
-      "title": "Internal data: Meta's Muse now has 3M+ users who submit at least one prompt per week and 1M+ DAUs who have sent at least one prompt (Jyoti Mann/The Information)",
-      "link": "https://www.techmeme.com/260930/p51#a260930p51",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-30T19:55:02-04:00",
-      "score": 5.899
-    },
-    {
-      "title": "Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a \"distraction\" at OpenAI (New York Times)",
-      "link": "https://www.techmeme.com/260930/p50#a260930p50",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-09-30T19:20:01-04:00",
-      "score": 5.778
-    },
-    {
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-30T23:10:19+00:00",
-      "score": 5.744
+      "published": "2026-10-01T23:45:06+00:00",
+      "score": 5.87
     },
     {
-      "title": "The AI telling farmers when to harvest",
-      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-09-30T23:02:21+00:00",
-      "score": 5.717
+      "title": "A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment, AI alignment says sandboxes can't fully contain agents (Matthew Green/A Few Thoughts ...)",
+      "link": "https://www.techmeme.com/261001/p44#a261001p44",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-01T19:30:01-04:00",
+      "score": 5.817
+    },
+    {
+      "title": "Butterflies use optical illusions to dodge predators",
+      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-01T23:15:24+00:00",
+      "score": 5.766
+    },
+    {
+      "title": "California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models (Jaspreet Singh/Reuters)",
+      "link": "https://www.techmeme.com/261001/p43#a261001p43",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-01T19:15:01-04:00",
+      "score": 5.765
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-01T23:10:44+00:00",
+      "score": 5.75
     }
   ]
 }
