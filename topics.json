@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-02T00:22:40.292938+00:00",
+  "generated_at": "2026-10-03T00:20:57.350237+00:00",
   "topics": [
     {
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-01T23:45:06+00:00",
-      "score": 5.87
-    },
-    {
-      "title": "A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment, AI alignment says sandboxes can't fully contain agents (Matthew Green/A Few Thoughts ...)",
-      "link": "https://www.techmeme.com/261001/p44#a261001p44",
+      "title": "David Robinson, who worked on OpenAI's Safety Systems team and had previously led policy planning, left OpenAI last week (Stephen Council/Business Insider)",
+      "link": "https://www.techmeme.com/261002/p29#a261002p29",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-01T19:30:01-04:00",
-      "score": 5.817
+      "published": "2026-10-02T19:55:35-04:00",
+      "score": 5.912
     },
     {
-      "title": "Butterflies use optical illusions to dodge predators",
-      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-01T23:15:24+00:00",
-      "score": 5.766
-    },
-    {
-      "title": "California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models (Jaspreet Singh/Reuters)",
-      "link": "https://www.techmeme.com/261001/p43#a261001p43",
+      "title": "Leaked Slack messages show OpenAI employees' pushback in June to Greg Brockman's Leading the Future ties, contributing to Brockman reneging on a $25M donation (Garrison Lovely/Semafor)",
+      "link": "https://www.techmeme.com/261002/p28#a261002p28",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-01T19:15:01-04:00",
-      "score": 5.765
+      "published": "2026-10-02T19:50:01-04:00",
+      "score": 5.893
     },
     {
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "link": "https://lwn.net/Articles/1097401/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-01T23:10:44+00:00",
-      "score": 5.75
+      "title": "Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums (Molly Taft/Wired)",
+      "link": "https://www.techmeme.com/261002/p27#a261002p27",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-02T19:20:01-04:00",
+      "score": 5.788
+    },
+    {
+      "title": "Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch (Michael Kan/PCMag)",
+      "link": "https://www.techmeme.com/261002/p26#a261002p26",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-02T19:00:38-04:00",
+      "score": 5.721
+    },
+    {
+      "title": "Apple releases an update for iPhone 18 Pro Max devices on AT&T to address cellular failures; units that already lost service require hardware replacement (Chance Miller/9to5Mac)",
+      "link": "https://www.techmeme.com/261002/p25#a261002p25",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-02T17:35:01-04:00",
+      "score": 5.424
     }
   ]
 }
