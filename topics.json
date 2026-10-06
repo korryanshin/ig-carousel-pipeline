@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-05T00:24:07.712349+00:00",
+  "generated_at": "2026-10-06T00:24:36.563351+00:00",
   "topics": [
     {
-      "title": "1 in 8 cancer cases are caused by infections",
-      "link": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "link": "https://edworkingpapers.com/ai26-1551",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-05T00:04:02+00:00",
-      "score": 5.93
+      "published": "2026-10-06T00:00:45+00:00",
+      "score": 5.917
     },
     {
-      "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
-      "link": "https://www.techmeme.com/261004/p20#a261004p20",
+      "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
+      "link": "https://www.techmeme.com/261005/p34#a261005p34",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-04T18:55:01-04:00",
-      "score": 5.691
+      "published": "2026-10-05T19:25:02-04:00",
+      "score": 5.793
     },
     {
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "title": "Ephemeral Testing",
+      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-04T22:25:10+00:00",
-      "score": 5.587
+      "published": "2026-10-05T23:06:36+00:00",
+      "score": 5.729
     },
     {
-      "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)",
-      "link": "https://www.techmeme.com/261004/p19#a261004p19",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-04T17:55:01-04:00",
-      "score": 5.482
+      "title": "Worth Building",
+      "link": "https://armstr.ng/writing/worth-building",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-05T22:59:24+00:00",
+      "score": 5.704
     },
     {
-      "title": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)",
-      "link": "https://www.techmeme.com/261004/p18#a261004p18",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-04T17:35:10-04:00",
-      "score": 5.413
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-05T22:55:11+00:00",
+      "score": 5.689
     }
   ]
 }
