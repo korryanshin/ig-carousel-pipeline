@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-06T00:24:36.563351+00:00",
+  "generated_at": "2026-10-07T00:25:09.484708+00:00",
   "topics": [
     {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "link": "https://edworkingpapers.com/ai26-1551",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-06T00:00:45+00:00",
-      "score": 5.917
-    },
-    {
-      "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
-      "link": "https://www.techmeme.com/261005/p34#a261005p34",
+      "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
+      "link": "https://www.techmeme.com/261006/p47#a261006p47",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-05T19:25:02-04:00",
-      "score": 5.793
+      "published": "2026-10-06T20:15:00-04:00",
+      "score": 5.965
     },
     {
-      "title": "Ephemeral Testing",
-      "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-05T23:06:36+00:00",
-      "score": 5.729
+      "title": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
+      "link": "https://www.techmeme.com/261006/p46#a261006p46",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-06T19:55:02-04:00",
+      "score": 5.895
     },
     {
-      "title": "Worth Building",
-      "link": "https://armstr.ng/writing/worth-building",
+      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-05T22:59:24+00:00",
-      "score": 5.704
+      "published": "2026-10-06T23:54:35+00:00",
+      "score": 5.894
     },
     {
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "title": "State of Devs 2026 survey results: developers are exhausted",
+      "link": "https://2026.stateofdevs.com/en-US/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-05T22:55:11+00:00",
-      "score": 5.689
+      "published": "2026-10-06T23:26:30+00:00",
+      "score": 5.796
+    },
+    {
+      "title": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)",
+      "link": "https://www.techmeme.com/261006/p45#a261006p45",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-06T19:20:01-04:00",
+      "score": 5.774
     }
   ]
 }
