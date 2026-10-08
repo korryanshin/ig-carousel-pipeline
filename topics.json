@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-07T00:25:09.484708+00:00",
+  "generated_at": "2026-10-08T00:23:43.240821+00:00",
   "topics": [
     {
-      "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
-      "link": "https://www.techmeme.com/261006/p47#a261006p47",
+      "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
+      "link": "https://www.techmeme.com/261007/p42#a261007p42",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-06T20:15:00-04:00",
-      "score": 5.965
+      "published": "2026-10-07T20:05:01-04:00",
+      "score": 5.935
     },
     {
-      "title": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
-      "link": "https://www.techmeme.com/261006/p46#a261006p46",
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-07T23:50:29+00:00",
+      "score": 5.885
+    },
+    {
+      "title": "Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)",
+      "link": "https://www.techmeme.com/261007/p41#a261007p41",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-06T19:55:02-04:00",
-      "score": 5.895
+      "published": "2026-10-07T19:35:01-04:00",
+      "score": 5.831
     },
     {
-      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-06T23:54:35+00:00",
-      "score": 5.894
-    },
-    {
-      "title": "State of Devs 2026 survey results: developers are exhausted",
-      "link": "https://2026.stateofdevs.com/en-US/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-06T23:26:30+00:00",
-      "score": 5.796
-    },
-    {
-      "title": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)",
-      "link": "https://www.techmeme.com/261006/p45#a261006p45",
+      "title": "Margaret Hamilton, who led an MIT software team for NASA's Apollo program and helped establish software engineering as a discipline, died on September 30 at 90 (Janine Liberty/MIT News)",
+      "link": "https://www.techmeme.com/261007/p40#a261007p40",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-06T19:20:01-04:00",
-      "score": 5.774
+      "published": "2026-10-07T19:10:01-04:00",
+      "score": 5.744
+    },
+    {
+      "title": "The AGs of Florida, Iowa, Montana, and Nebraska sue TP-Link, alleging it deceptively marketed its routers' security and didn't properly disclose ties to China (Connor Jones/The Register)",
+      "link": "https://www.techmeme.com/261007/p39#a261007p39",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-07T18:55:02-04:00",
+      "score": 5.692
     }
   ]
 }
