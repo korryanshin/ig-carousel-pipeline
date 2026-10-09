@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-08T00:23:43.240821+00:00",
+  "generated_at": "2026-10-09T00:26:23.433993+00:00",
   "topics": [
     {
-      "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
-      "link": "https://www.techmeme.com/261007/p42#a261007p42",
+      "title": "Meta bans ByteDance ads and paid marketing, plus third-party campaigns linking to TikTok, in the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam (Bloomberg)",
+      "link": "https://www.techmeme.com/261008/p50#a261008p50",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-07T20:05:01-04:00",
-      "score": 5.935
+      "published": "2026-10-08T20:20:01-04:00",
+      "score": 5.978
     },
     {
-      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "link": "https://karagila.org/2026/openai-pp/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-08T23:29:43+00:00",
+      "score": 5.803
+    },
+    {
+      "title": "Why are more roofs not made of solar tiles?",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-07T23:50:29+00:00",
-      "score": 5.885
+      "published": "2026-10-08T23:09:56+00:00",
+      "score": 5.735
     },
     {
-      "title": "Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)",
-      "link": "https://www.techmeme.com/261007/p41#a261007p41",
+      "title": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)",
+      "link": "https://www.techmeme.com/261008/p49#a261008p49",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-07T19:35:01-04:00",
-      "score": 5.831
+      "published": "2026-10-08T19:01:29-04:00",
+      "score": 5.705
     },
     {
-      "title": "Margaret Hamilton, who led an MIT software team for NASA's Apollo program and helped establish software engineering as a discipline, died on September 30 at 90 (Janine Liberty/MIT News)",
-      "link": "https://www.techmeme.com/261007/p40#a261007p40",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-07T19:10:01-04:00",
-      "score": 5.744
-    },
-    {
-      "title": "The AGs of Florida, Iowa, Montana, and Nebraska sue TP-Link, alleging it deceptively marketed its routers' security and didn't properly disclose ties to China (Connor Jones/The Register)",
-      "link": "https://www.techmeme.com/261007/p39#a261007p39",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-07T18:55:02-04:00",
-      "score": 5.692
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-08T21:37:35+00:00",
+      "score": 5.414
     }
   ]
 }
