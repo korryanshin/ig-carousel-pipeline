@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-09T00:26:23.433993+00:00",
+  "generated_at": "2026-10-10T00:24:36.252132+00:00",
   "topics": [
     {
-      "title": "Meta bans ByteDance ads and paid marketing, plus third-party campaigns linking to TikTok, in the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam (Bloomberg)",
-      "link": "https://www.techmeme.com/261008/p50#a261008p50",
+      "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)",
+      "link": "https://www.techmeme.com/261009/p31#a261009p31",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-08T20:20:01-04:00",
-      "score": 5.978
+      "published": "2026-10-09T19:35:01-04:00",
+      "score": 5.828
     },
     {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "link": "https://karagila.org/2026/openai-pp/",
+      "title": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)",
+      "link": "https://www.techmeme.com/261009/p30#a261009p30",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-09T19:30:04-04:00",
+      "score": 5.811
+    },
+    {
+      "title": "Rewriting Prime Agent in Rust",
+      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-08T23:29:43+00:00",
-      "score": 5.803
+      "published": "2026-10-09T23:06:25+00:00",
+      "score": 5.729
     },
     {
-      "title": "Why are more roofs not made of solar tiles?",
-      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-08T23:09:56+00:00",
-      "score": 5.735
-    },
-    {
-      "title": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)",
-      "link": "https://www.techmeme.com/261008/p49#a261008p49",
+      "title": "Trump admin says it's now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
+      "link": "https://www.techmeme.com/261009/p29#a261009p29",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-08T19:01:29-04:00",
-      "score": 5.705
+      "published": "2026-10-09T19:05:01-04:00",
+      "score": 5.724
     },
     {
-      "title": "White House blocks Microsoft from foreign worker hiring program",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-08T21:37:35+00:00",
-      "score": 5.414
+      "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
+      "link": "https://www.techmeme.com/261009/p28#a261009p28",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-09T18:30:00-04:00",
+      "score": 5.602
     }
   ]
 }
