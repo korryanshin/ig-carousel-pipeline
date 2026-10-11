@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-10T00:24:36.252132+00:00",
+  "generated_at": "2026-10-11T00:23:59.644937+00:00",
   "topics": [
     {
-      "title": "Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams (Katharine Schwab/Forbes)",
-      "link": "https://www.techmeme.com/261009/p31#a261009p31",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-09T19:35:01-04:00",
-      "score": 5.828
-    },
-    {
-      "title": "Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that's designing a new central processor for data centers, is raising funds at a ~$2.5B valuation (Reuters)",
-      "link": "https://www.techmeme.com/261009/p30#a261009p30",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-09T19:30:04-04:00",
-      "score": 5.811
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-09T23:06:25+00:00",
-      "score": 5.729
+      "published": "2026-10-10T22:50:10+00:00",
+      "score": 5.674
     },
     {
-      "title": "Trump admin says it's now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
-      "link": "https://www.techmeme.com/261009/p29#a261009p29",
+      "title": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
+      "link": "https://www.techmeme.com/261010/p18#a261010p18",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-09T19:05:01-04:00",
-      "score": 5.724
+      "published": "2026-10-10T17:15:01-04:00",
+      "score": 5.344
     },
     {
-      "title": "Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M (Chris Metinko/Axios)",
-      "link": "https://www.techmeme.com/261009/p28#a261009p28",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "link": "https://housing.over.pizza/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-10T20:31:50+00:00",
+      "score": 5.194
+    },
+    {
+      "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
+      "link": "https://www.techmeme.com/261010/p17#a261010p17",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-09T18:30:00-04:00",
-      "score": 5.602
+      "published": "2026-10-10T15:45:00-04:00",
+      "score": 5.031
+    },
+    {
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-10T19:12:55+00:00",
+      "score": 4.92
     }
   ]
 }
