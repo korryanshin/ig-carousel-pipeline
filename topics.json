@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-11T00:23:59.644937+00:00",
+  "generated_at": "2026-10-12T00:25:44.683101+00:00",
   "topics": [
     {
-      "title": "Build your own decision model",
-      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-10T22:50:10+00:00",
-      "score": 5.674
+      "published": "2026-10-11T23:50:34+00:00",
+      "score": 5.878
     },
     {
-      "title": "\"Super Intelligence systems\" are black boxes that shouldn't be trusted by companies, and strong deterministic systems are needed around their deployment (Satya Nadella/@satyanadella)",
-      "link": "https://www.techmeme.com/261010/p18#a261010p18",
+      "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
+      "link": "https://www.techmeme.com/261011/p12#a261011p12",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-10T17:15:01-04:00",
-      "score": 5.344
+      "published": "2026-10-11T19:50:02-04:00",
+      "score": 5.876
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "link": "https://housing.over.pizza/",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "link": "https://github.com/plimsollmark/plimsoll",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-10T20:31:50+00:00",
-      "score": 5.194
+      "published": "2026-10-11T23:47:59+00:00",
+      "score": 5.869
     },
     {
-      "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
-      "link": "https://www.techmeme.com/261010/p17#a261010p17",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-10T15:45:00-04:00",
-      "score": 5.031
-    },
-    {
-      "title": "Takeshi's Castle",
-      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "title": "Governments are mishandling the affordability crisis",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-10T19:12:55+00:00",
-      "score": 4.92
+      "published": "2026-10-11T23:40:06+00:00",
+      "score": 5.842
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-11T23:22:36+00:00",
+      "score": 5.781
     }
   ]
 }
