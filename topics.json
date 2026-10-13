@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-12T00:25:44.683101+00:00",
+  "generated_at": "2026-10-13T00:26:49.153730+00:00",
   "topics": [
     {
-      "title": "Whatever became of holography? (2011)",
-      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-11T23:50:34+00:00",
-      "score": 5.878
-    },
-    {
-      "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
-      "link": "https://www.techmeme.com/261011/p12#a261011p12",
+      "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
+      "link": "https://www.techmeme.com/261012/p42#a261012p42",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-11T19:50:02-04:00",
-      "score": 5.876
+      "published": "2026-10-12T20:15:02-04:00",
+      "score": 5.959
     },
     {
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "link": "https://github.com/plimsollmark/plimsoll",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "link": "https://doi.org/10.1111/acel.70751",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-11T23:47:59+00:00",
-      "score": 5.869
+      "published": "2026-10-12T23:34:22+00:00",
+      "score": 5.818
     },
     {
-      "title": "Governments are mishandling the affordability crisis",
-      "link": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+      "title": "A shared, verifiable fix database that AI agents read and write themselves",
+      "link": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-11T23:40:06+00:00",
-      "score": 5.842
+      "published": "2026-10-12T23:22:00+00:00",
+      "score": 5.775
     },
     {
-      "title": "Illustration Beyond Proof",
-      "link": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "link": "https://github.com/andrewfader/blokkily",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-11T23:22:36+00:00",
-      "score": 5.781
+      "published": "2026-10-12T23:21:12+00:00",
+      "score": 5.772
+    },
+    {
+      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-12T23:07:25+00:00",
+      "score": 5.724
     }
   ]
 }
