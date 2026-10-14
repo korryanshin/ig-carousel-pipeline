@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-13T00:26:49.153730+00:00",
+  "generated_at": "2026-10-14T00:33:09.362463+00:00",
   "topics": [
     {
-      "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
-      "link": "https://www.techmeme.com/261012/p42#a261012p42",
+      "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)",
+      "link": "https://www.techmeme.com/261013/p48#a261013p48",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-12T20:15:02-04:00",
-      "score": 5.959
+      "published": "2026-10-13T20:05:01-04:00",
+      "score": 5.902
     },
     {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "link": "https://doi.org/10.1111/acel.70751",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-12T23:34:22+00:00",
-      "score": 5.818
+      "title": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
+      "link": "https://www.techmeme.com/261013/p47#a261013p47",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-13T19:20:01-04:00",
+      "score": 5.746
     },
     {
-      "title": "A shared, verifiable fix database that AI agents read and write themselves",
-      "link": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "link": "https://pulseos.finance",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-12T23:22:00+00:00",
-      "score": 5.775
+      "published": "2026-10-13T23:13:23+00:00",
+      "score": 5.723
     },
     {
-      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-      "link": "https://github.com/andrewfader/blokkily",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-12T23:21:12+00:00",
-      "score": 5.772
+      "title": "How long will humans be needed for translation?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-13T23:05:29+00:00",
+      "score": 5.696
     },
     {
-      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-12T23:07:25+00:00",
-      "score": 5.724
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-13T23:04:39+00:00",
+      "score": 5.693
     }
   ]
 }
