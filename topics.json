@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-14T00:33:09.362463+00:00",
+  "generated_at": "2026-10-15T00:32:38.697369+00:00",
   "topics": [
     {
-      "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)",
-      "link": "https://www.techmeme.com/261013/p48#a261013p48",
+      "title": "A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups' claims that it violates free speech rights (Diana Novak Jones/Reuters)",
+      "link": "https://www.techmeme.com/261014/p49#a261014p49",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-13T20:05:01-04:00",
-      "score": 5.902
+      "published": "2026-10-14T20:25:02-04:00",
+      "score": 5.974
     },
     {
-      "title": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
-      "link": "https://www.techmeme.com/261013/p47#a261013p47",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-13T19:20:01-04:00",
-      "score": 5.746
-    },
-    {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "link": "https://pulseos.finance",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-13T23:13:23+00:00",
-      "score": 5.723
+      "published": "2026-10-14T23:59:37+00:00",
+      "score": 5.885
     },
     {
-      "title": "How long will humans be needed for translation?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-13T23:05:29+00:00",
-      "score": 5.696
+      "title": "A new model for open source: closed to pull requests, open to remix",
+      "link": "https://ghuntley.com/remix/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-14T23:40:28+00:00",
+      "score": 5.819
     },
     {
-      "title": "Is it OK for jobseekers or employers to use AI?",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-13T23:04:39+00:00",
-      "score": 5.693
+      "title": "Sources: YouTube has held talks with publishers in recent months about an audiobook feature that could be ready next year and may be bundled in YouTube Premium (Wall Street Journal)",
+      "link": "https://www.techmeme.com/261014/p48#a261014p48",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-14T19:40:01-04:00",
+      "score": 5.817
+    },
+    {
+      "title": "Jio Platforms seeks to raise up to $3.2B in India's largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 (Reuters)",
+      "link": "https://www.techmeme.com/261014/p47#a261014p47",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-14T19:15:00-04:00",
+      "score": 5.73
     }
   ]
 }
