@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-17T00:32:20.551124+00:00",
+  "generated_at": "2026-10-18T00:31:49.012409+00:00",
   "topics": [
     {
-      "title": "Intel CEO Lip-Bu Tan says the Trump administration does not have \"any policy\" to use a minority stake in Intel to interfere in its business strategy (Kohei Yamada/Nikkei Asia)",
-      "link": "https://www.techmeme.com/261016/p27#a261016p27",
+      "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x (Google)",
+      "link": "https://www.techmeme.com/261017/p19#a261017p19",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-16T20:20:01-04:00",
-      "score": 5.957
+      "published": "2026-10-17T19:35:01-04:00",
+      "score": 5.803
     },
     {
-      "title": "Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review (Marcus Mendes/9to5Mac)",
-      "link": "https://www.techmeme.com/261016/p26#a261016p26",
+      "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
+      "link": "https://www.techmeme.com/261017/p18#a261017p18",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-16T19:45:01-04:00",
-      "score": 5.836
+      "published": "2026-10-17T16:50:01-04:00",
+      "score": 5.23
     },
     {
-      "title": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
-      "link": "https://www.techmeme.com/261016/p25#a261016p25",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-16T19:00:01-04:00",
-      "score": 5.679
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-17T20:24:32+00:00",
+      "score": 5.141
     },
     {
-      "title": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
-      "link": "https://www.techmeme.com/261016/p24#a261016p24",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-16T18:45:01-04:00",
-      "score": 5.627
-    },
-    {
-      "title": "Nine-Inch Snails",
-      "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-16T22:21:05+00:00",
-      "score": 5.544
+      "published": "2026-10-17T20:07:33+00:00",
+      "score": 5.082
+    },
+    {
+      "title": "Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)",
+      "link": "https://www.techmeme.com/261017/p17#a261017p17",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-17T15:55:00-04:00",
+      "score": 5.039
     }
   ]
 }
