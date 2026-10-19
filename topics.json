@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-18T00:31:49.012409+00:00",
+  "generated_at": "2026-10-19T00:32:11.828062+00:00",
   "topics": [
     {
-      "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x (Google)",
-      "link": "https://www.techmeme.com/261017/p19#a261017p19",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-17T19:35:01-04:00",
-      "score": 5.803
-    },
-    {
-      "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
-      "link": "https://www.techmeme.com/261017/p18#a261017p18",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-17T16:50:01-04:00",
-      "score": 5.23
-    },
-    {
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-17T20:24:32+00:00",
-      "score": 5.141
-    },
-    {
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "link": "https://colo.to/cyberspace.html",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-17T20:07:33+00:00",
-      "score": 5.082
+      "published": "2026-10-18T23:37:57+00:00",
+      "score": 5.812
     },
     {
-      "title": "Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)",
-      "link": "https://www.techmeme.com/261017/p17#a261017p17",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-18T23:24:59+00:00",
+      "score": 5.767
+    },
+    {
+      "title": "How RC2's π table was made",
+      "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-18T22:48:07+00:00",
+      "score": 5.639
+    },
+    {
+      "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)",
+      "link": "https://www.techmeme.com/261018/p12#a261018p12",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-17T15:55:00-04:00",
-      "score": 5.039
+      "published": "2026-10-18T18:15:00-04:00",
+      "score": 5.524
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "link": "https://github.com/finereli/whatsapp-mcp",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-18T21:36:10+00:00",
+      "score": 5.389
     }
   ]
 }
