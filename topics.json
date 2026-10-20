@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-19T00:32:11.828062+00:00",
+  "generated_at": "2026-10-20T00:34:55.476919+00:00",
   "topics": [
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "link": "https://colo.to/cyberspace.html",
+      "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+      "link": "https://ipinfo.io/blog/france-fridges-hack",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-18T23:37:57+00:00",
-      "score": 5.812
+      "published": "2026-10-20T00:00:49+00:00",
+      "score": 5.882
     },
     {
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-18T23:24:59+00:00",
-      "score": 5.767
-    },
-    {
-      "title": "How RC2's π table was made",
-      "link": "https://khalidhamadeh.com/writing/rc2-pi-table",
+      "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+      "link": "https://openrouter.ai/rankings",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-18T22:48:07+00:00",
-      "score": 5.639
+      "published": "2026-10-19T23:40:15+00:00",
+      "score": 5.81
     },
     {
-      "title": "Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal (Bailey Lipschultz/Bloomberg)",
-      "link": "https://www.techmeme.com/261018/p12#a261018p12",
+      "title": "Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)",
+      "link": "https://www.techmeme.com/261019/p49#a261019p49",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-18T18:15:00-04:00",
-      "score": 5.524
+      "published": "2026-10-19T19:38:29-04:00",
+      "score": 5.804
     },
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "link": "https://github.com/finereli/whatsapp-mcp",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-18T21:36:10+00:00",
-      "score": 5.389
+      "title": "Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief (Wall Street Journal)",
+      "link": "https://www.techmeme.com/261019/p48#a261019p48",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-19T19:30:01-04:00",
+      "score": 5.775
+    },
+    {
+      "title": "Sources: Waymo aims to expand its fleet to 8K by the end of this year, up from 4K today, and to 20K by the end of 2027, after raising $5B in debt this month (Ellen DiMauro/Semafor)",
+      "link": "https://www.techmeme.com/261019/p47#a261019p47",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-19T19:10:02-04:00",
+      "score": 5.705
     }
   ]
 }
