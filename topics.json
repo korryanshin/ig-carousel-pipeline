@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-21T00:33:04.672956+00:00",
+  "generated_at": "2026-10-22T00:33:22.144608+00:00",
   "topics": [
     {
-      "title": "Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility (Phoebe Liu/The Information)",
-      "link": "https://www.techmeme.com/261020/p56#a261020p56",
+      "title": "Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)",
+      "link": "https://www.techmeme.com/261021/p57#a261021p57",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-20T20:10:01-04:00",
-      "score": 5.92
+      "published": "2026-10-21T20:05:01-04:00",
+      "score": 5.902
     },
     {
-      "title": "Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ (Kirsten Korosec/TechCrunch)",
-      "link": "https://www.techmeme.com/261020/p55#a261020p55",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-21T23:51:37+00:00",
+      "score": 5.855
+    },
+    {
+      "title": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)",
+      "link": "https://www.techmeme.com/261021/p56#a261021p56",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-20T20:05:13-04:00",
-      "score": 5.903
+      "published": "2026-10-21T19:50:02-04:00",
+      "score": 5.85
     },
     {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-20T23:24:47+00:00",
-      "score": 5.763
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-21T23:38:32+00:00",
+      "score": 5.81
     },
     {
-      "title": "An interview with OnlyFans CEO Keily Blair about plans to offer financial services to its 2.5M active creators, a potential IPO, and more (Emma Hinchliffe/Fortune)",
-      "link": "https://www.techmeme.com/261020/p54#a261020p54",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-20T19:15:01-04:00",
-      "score": 5.729
-    },
-    {
-      "title": "The tech helping crack decades-old cold cases",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-20T23:13:24+00:00",
-      "score": 5.723
+      "title": "Κ = 0.003 for integer multiplication crossed",
+      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-21T23:22:21+00:00",
+      "score": 5.753
     }
   ]
 }
