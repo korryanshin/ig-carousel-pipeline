@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-22T00:33:22.144608+00:00",
+  "generated_at": "2026-10-23T04:09:37.952100+00:00",
   "topics": [
     {
-      "title": "Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents (Jacob Cooper/Railway Blog)",
-      "link": "https://www.techmeme.com/261021/p57#a261021p57",
+      "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
+      "link": "https://www.techmeme.com/261022/p61#a261022p61",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-21T20:05:01-04:00",
-      "score": 5.902
+      "published": "2026-10-22T22:50:50-04:00",
+      "score": 5.726
     },
     {
-      "title": "mitmproxy adds --emudhra option",
-      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-21T23:51:37+00:00",
-      "score": 5.855
-    },
-    {
-      "title": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)",
-      "link": "https://www.techmeme.com/261021/p56#a261021p56",
+      "title": "Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers' phones within seven days of notice (Sarah Perez/TechCrunch)",
+      "link": "https://www.techmeme.com/261022/p60#a261022p60",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-21T19:50:02-04:00",
-      "score": 5.85
+      "published": "2026-10-22T21:50:47-04:00",
+      "score": 5.518
     },
     {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-21T23:38:32+00:00",
-      "score": 5.81
+      "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
+      "link": "https://www.techmeme.com/261022/p59#a261022p59",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-22T21:10:01-04:00",
+      "score": 5.376
     },
     {
-      "title": "Κ = 0.003 for integer multiplication crossed",
-      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-21T23:22:21+00:00",
-      "score": 5.753
+      "published": "2026-10-23T00:52:01+00:00",
+      "score": 5.314
+    },
+    {
+      "title": "An interview with Ondřej Surý, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities (Charlie Warzel/The Atlantic)",
+      "link": "https://www.techmeme.com/261022/p58#a261022p58",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-22T20:30:02-04:00",
+      "score": 5.238
     }
   ]
 }
