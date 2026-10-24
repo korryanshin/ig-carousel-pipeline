@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-23T04:09:37.952100+00:00",
+  "generated_at": "2026-10-24T04:02:16.633008+00:00",
   "topics": [
     {
-      "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
-      "link": "https://www.techmeme.com/261022/p61#a261022p61",
+      "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
+      "link": "https://www.techmeme.com/261023/p28#a261023p28",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-22T22:50:50-04:00",
-      "score": 5.726
+      "published": "2026-10-23T23:45:01-04:00",
+      "score": 5.94
     },
     {
-      "title": "Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers' phones within seven days of notice (Sarah Perez/TechCrunch)",
-      "link": "https://www.techmeme.com/261022/p60#a261022p60",
+      "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)",
+      "link": "https://www.techmeme.com/261023/p27#a261023p27",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-22T21:50:47-04:00",
-      "score": 5.518
+      "published": "2026-10-23T22:55:01-04:00",
+      "score": 5.766
     },
     {
-      "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
-      "link": "https://www.techmeme.com/261022/p59#a261022p59",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-22T21:10:01-04:00",
-      "score": 5.376
-    },
-    {
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-23T00:52:01+00:00",
-      "score": 5.314
+      "published": "2026-10-24T01:53:10+00:00",
+      "score": 5.552
     },
     {
-      "title": "An interview with Ondřej Surý, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities (Charlie Warzel/The Atlantic)",
-      "link": "https://www.techmeme.com/261022/p58#a261022p58",
+      "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
+      "link": "https://www.techmeme.com/261023/p26#a261023p26",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-22T20:30:02-04:00",
-      "score": 5.238
+      "published": "2026-10-23T21:20:01-04:00",
+      "score": 5.437
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-24T01:16:58+00:00",
+      "score": 5.426
     }
   ]
 }
