@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-24T04:02:16.633008+00:00",
+  "generated_at": "2026-10-25T04:03:22.975346+00:00",
   "topics": [
     {
-      "title": "Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads (Shimul Sood/Android Authority)",
-      "link": "https://www.techmeme.com/261023/p28#a261023p28",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-23T23:45:01-04:00",
-      "score": 5.94
-    },
-    {
-      "title": "Andy Jassy says AWS capacity for 2027 is \"largely sold out\" and a \"good chunk\" of 2028 capacity is also sold, though AWS reserves some capacity for on-demand (Catherine Perloff/The Information)",
-      "link": "https://www.techmeme.com/261023/p27#a261023p27",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-23T22:55:01-04:00",
-      "score": 5.766
-    },
-    {
-      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-24T01:53:10+00:00",
-      "score": 5.552
+      "published": "2026-10-25T03:05:53+00:00",
+      "score": 5.8
     },
     {
-      "title": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
-      "link": "https://www.techmeme.com/261023/p26#a261023p26",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-23T21:20:01-04:00",
-      "score": 5.437
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
-      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-24T01:16:58+00:00",
-      "score": 5.426
+      "published": "2026-10-25T02:18:35+00:00",
+      "score": 5.636
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-25T01:33:49+00:00",
+      "score": 5.481
+    },
+    {
+      "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)",
+      "link": "https://www.techmeme.com/261024/p10#a261024p10",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-24T21:30:05-04:00",
+      "score": 5.468
+    },
+    {
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "link": "https://codeberg.org/Misom/FindMyWeb",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-24T23:42:52+00:00",
+      "score": 5.095
     }
   ]
 }
