@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-25T04:03:22.975346+00:00",
+  "generated_at": "2026-10-26T04:07:35.538059+00:00",
   "topics": [
     {
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "link": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "title": "Behind the scenes at the NeXT Computer office",
+      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-25T03:05:53+00:00",
-      "score": 5.8
+      "published": "2026-10-26T03:31:11+00:00",
+      "score": 5.874
     },
     {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-25T02:18:35+00:00",
-      "score": 5.636
+      "published": "2026-10-26T03:29:05+00:00",
+      "score": 5.866
     },
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-25T01:33:49+00:00",
-      "score": 5.481
-    },
-    {
-      "title": "A look at Meta's role in Brazil's runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches (Augusta Saraiva/Bloomberg)",
-      "link": "https://www.techmeme.com/261024/p10#a261024p10",
+      "title": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)",
+      "link": "https://www.techmeme.com/261025/p16#a261025p16",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-24T21:30:05-04:00",
-      "score": 5.468
+      "published": "2026-10-25T23:25:01-04:00",
+      "score": 5.852
     },
     {
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "link": "https://codeberg.org/Misom/FindMyWeb",
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "link": "https://titleart.dvy.io/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-24T23:42:52+00:00",
-      "score": 5.095
+      "published": "2026-10-26T03:23:57+00:00",
+      "score": 5.848
+    },
+    {
+      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
+      "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-26T03:04:08+00:00",
+      "score": 5.78
     }
   ]
 }
