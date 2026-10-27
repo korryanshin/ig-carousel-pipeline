@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-26T04:07:35.538059+00:00",
+  "generated_at": "2026-10-27T04:27:23.686525+00:00",
   "topics": [
     {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "title": "Incremental rust builds up to 92x faster than cargo/rustc",
+      "link": "https://github.com/indexable-inc/blaze",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-26T03:31:11+00:00",
-      "score": 5.874
+      "published": "2026-10-27T03:09:07+00:00",
+      "score": 5.728
     },
     {
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-26T03:29:05+00:00",
-      "score": 5.866
-    },
-    {
-      "title": "Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend (Bloomberg)",
-      "link": "https://www.techmeme.com/261025/p16#a261025p16",
+      "title": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
+      "link": "https://www.techmeme.com/261026/p51#a261026p51",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-25T23:25:01-04:00",
-      "score": 5.852
+      "published": "2026-10-26T21:55:02-04:00",
+      "score": 5.471
     },
     {
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "link": "https://titleart.dvy.io/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-26T03:23:57+00:00",
-      "score": 5.848
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-27T01:48:04+00:00",
+      "score": 5.447
     },
     {
-      "title": "Brazil elections: Lula secures fourth term after dramatic comeback",
-      "link": "https://www.bbc.com/news/articles/cmvg7p001qj9o",
+      "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)",
+      "link": "https://www.techmeme.com/261026/p50#a261026p50",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-26T21:45:07-04:00",
+      "score": 5.437
+    },
+    {
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "link": "https://github.com/otya128/winevdm",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-26T03:04:08+00:00",
-      "score": 5.78
+      "published": "2026-10-27T01:15:04+00:00",
+      "score": 5.332
     }
   ]
 }
