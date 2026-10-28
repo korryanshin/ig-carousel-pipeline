@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-27T04:27:23.686525+00:00",
+  "generated_at": "2026-10-28T04:58:01.872596+00:00",
   "topics": [
     {
-      "title": "Incremental rust builds up to 92x faster than cargo/rustc",
-      "link": "https://github.com/indexable-inc/blaze",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-27T03:09:07+00:00",
-      "score": 5.728
-    },
-    {
-      "title": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
-      "link": "https://www.techmeme.com/261026/p51#a261026p51",
+      "title": "Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years (Nikkei Asia)",
+      "link": "https://www.techmeme.com/261028/p3#a261028p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-26T21:55:02-04:00",
-      "score": 5.471
+      "published": "2026-10-28T00:40:01-04:00",
+      "score": 5.937
     },
     {
-      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-27T01:48:04+00:00",
-      "score": 5.447
-    },
-    {
-      "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)",
-      "link": "https://www.techmeme.com/261026/p50#a261026p50",
+      "title": "Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it (Wall Street Journal)",
+      "link": "https://www.techmeme.com/261028/p2#a261028p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-26T21:45:07-04:00",
-      "score": 5.437
+      "published": "2026-10-28T00:15:47-04:00",
+      "score": 5.853
     },
     {
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "link": "https://github.com/otya128/winevdm",
+      "title": "Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move (Nikkei Asia)",
+      "link": "https://www.techmeme.com/261028/p1#a261028p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-28T00:10:01-04:00",
+      "score": 5.833
+    },
+    {
+      "title": "The US FCC approves Amazon Leo's $11.5B acquisition of Globalstar, giving Amazon access to Globalstar's 24 satellites and mobile satellite spectrum (David Shepardson/Reuters)",
+      "link": "https://www.techmeme.com/261027/p45#a261027p45",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-27T23:50:02-04:00",
+      "score": 5.764
+    },
+    {
+      "title": "I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer",
+      "link": "https://github.com/Aissamohammedi88/toolkit",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-27T01:15:04+00:00",
-      "score": 5.332
+      "published": "2026-10-28T03:15:45+00:00",
+      "score": 5.645
     }
   ]
 }
