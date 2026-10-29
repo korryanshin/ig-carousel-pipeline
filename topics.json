@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-28T04:58:01.872596+00:00",
+  "generated_at": "2026-10-29T05:10:33.864174+00:00",
   "topics": [
     {
-      "title": "Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years (Nikkei Asia)",
-      "link": "https://www.techmeme.com/261028/p3#a261028p3",
+      "title": "DoorDash moves its Q3 earnings release from November 4 to before the market opens on October 29, amid reports of an imminent ~$17B deal to acquire Instacart (Ville Heiskanen/Bloomberg)",
+      "link": "https://www.techmeme.com/261029/p2#a261029p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-28T00:40:01-04:00",
-      "score": 5.937
+      "published": "2026-10-29T00:40:01-04:00",
+      "score": 5.894
     },
     {
-      "title": "Anthropic's S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX's $28.5T estimate, without explicitly naming it (Wall Street Journal)",
-      "link": "https://www.techmeme.com/261028/p2#a261028p2",
+      "title": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)",
+      "link": "https://www.techmeme.com/261029/p1#a261029p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-28T00:15:47-04:00",
-      "score": 5.853
+      "published": "2026-10-29T00:05:01-04:00",
+      "score": 5.772
     },
     {
-      "title": "Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move (Nikkei Asia)",
-      "link": "https://www.techmeme.com/261028/p1#a261028p1",
+      "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)",
+      "link": "https://www.techmeme.com/261028/p65#a261028p65",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-28T00:10:01-04:00",
-      "score": 5.833
+      "published": "2026-10-28T23:55:00-04:00",
+      "score": 5.738
     },
     {
-      "title": "The US FCC approves Amazon Leo's $11.5B acquisition of Globalstar, giving Amazon access to Globalstar's 24 satellites and mobile satellite spectrum (David Shepardson/Reuters)",
-      "link": "https://www.techmeme.com/261027/p45#a261027p45",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-27T23:50:02-04:00",
-      "score": 5.764
-    },
-    {
-      "title": "I built 327 distinct CI/CD workflows in 1 hour. GitHub flagged me as a spammer",
-      "link": "https://github.com/Aissamohammedi88/toolkit",
+      "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+      "link": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-28T03:15:45+00:00",
-      "score": 5.645
+      "published": "2026-10-29T03:48:05+00:00",
+      "score": 5.714
+    },
+    {
+      "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+      "link": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-29T03:44:12+00:00",
+      "score": 5.7
     }
   ]
 }
