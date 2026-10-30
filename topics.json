@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-29T05:10:33.864174+00:00",
+  "generated_at": "2026-10-30T05:10:02.982778+00:00",
   "topics": [
     {
-      "title": "DoorDash moves its Q3 earnings release from November 4 to before the market opens on October 29, amid reports of an imminent ~$17B deal to acquire Instacart (Ville Heiskanen/Bloomberg)",
-      "link": "https://www.techmeme.com/261029/p2#a261029p2",
+      "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)",
+      "link": "https://www.techmeme.com/261030/p3#a261030p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-29T00:40:01-04:00",
-      "score": 5.894
+      "published": "2026-10-30T01:00:14-04:00",
+      "score": 5.966
     },
     {
-      "title": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)",
-      "link": "https://www.techmeme.com/261029/p1#a261029p1",
+      "title": "Crypto giant Binance hit by 'largest hack in history'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-10-30T04:52:22+00:00",
+      "score": 5.939
+    },
+    {
+      "title": "Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)",
+      "link": "https://www.techmeme.com/261030/p2#a261030p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-29T00:05:01-04:00",
-      "score": 5.772
+      "published": "2026-10-30T00:50:00-04:00",
+      "score": 5.93
     },
     {
-      "title": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)",
-      "link": "https://www.techmeme.com/261028/p65#a261028p65",
+      "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)",
+      "link": "https://www.techmeme.com/261030/p1#a261030p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-28T23:55:00-04:00",
-      "score": 5.738
+      "published": "2026-10-30T00:01:16-04:00",
+      "score": 5.761
     },
     {
-      "title": "Zillow to pay $212.5M to settle class action for real estate venture",
-      "link": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-29T03:48:05+00:00",
-      "score": 5.714
-    },
-    {
-      "title": "The Milwaukee Brewers win the first World Series title in franchise history",
-      "link": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-10-29T03:44:12+00:00",
-      "score": 5.7
+      "title": "Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)",
+      "link": "https://www.techmeme.com/261029/p71#a261029p71",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-10-29T23:35:00-04:00",
+      "score": 5.67
     }
   ]
 }
