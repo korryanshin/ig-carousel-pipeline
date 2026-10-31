@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-30T05:10:02.982778+00:00",
+  "generated_at": "2026-10-31T04:55:08.126189+00:00",
   "topics": [
     {
-      "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)",
-      "link": "https://www.techmeme.com/261030/p3#a261030p3",
+      "title": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)",
+      "link": "https://www.techmeme.com/261031/p1#a261031p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-30T01:00:14-04:00",
-      "score": 5.966
+      "published": "2026-10-31T00:30:01-04:00",
+      "score": 5.913
     },
     {
-      "title": "Crypto giant Binance hit by 'largest hack in history'",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-10-30T04:52:22+00:00",
-      "score": 5.939
+      "title": "OpenAI raises less than half of $30B target",
+      "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-31T03:22:44+00:00",
+      "score": 5.679
     },
     {
-      "title": "Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)",
-      "link": "https://www.techmeme.com/261030/p2#a261030p2",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-30T00:50:00-04:00",
-      "score": 5.93
+      "title": "Tell HN: Scribd Breached",
+      "link": "https://news.ycombinator.com/item?id=50312756",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-31T02:46:36+00:00",
+      "score": 5.554
     },
     {
-      "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)",
-      "link": "https://www.techmeme.com/261030/p1#a261030p1",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-30T00:01:16-04:00",
-      "score": 5.761
+      "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+      "link": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-10-31T02:42:02+00:00",
+      "score": 5.538
     },
     {
-      "title": "Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)",
-      "link": "https://www.techmeme.com/261029/p71#a261029p71",
+      "title": "Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)",
+      "link": "https://www.techmeme.com/261030/p31#a261030p31",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-29T23:35:00-04:00",
-      "score": 5.67
+      "published": "2026-10-30T22:30:02-04:00",
+      "score": 5.496
     }
   ]
 }
