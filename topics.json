@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-01T05:23:19.958882+00:00",
+  "generated_at": "2026-11-02T05:22:02.489194+00:00",
   "topics": [
     {
-      "title": "Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum (Ivan Mehta/TechCrunch)",
-      "link": "https://www.techmeme.com/261101/p3#a261101p3",
+      "title": "SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score (SemiAnalysis)",
+      "link": "https://www.techmeme.com/261102/p1#a261102p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-01T01:15:00-04:00",
-      "score": 5.971
+      "published": "2026-11-02T00:20:00-05:00",
+      "score": 5.993
     },
     {
-      "title": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions (Debby Wu/Bloomberg)",
-      "link": "https://www.techmeme.com/261101/p2#a261101p2",
+      "title": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M (Jeff John Roberts/Fortune)",
+      "link": "https://www.techmeme.com/261101/p27#a261101p27",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-01T01:00:13-04:00",
-      "score": 5.92
+      "published": "2026-11-01T23:35:01-05:00",
+      "score": 5.837
     },
     {
-      "title": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B in cash (Anzar Mehraj/Reuters)",
-      "link": "https://www.techmeme.com/261101/p1#a261101p1",
+      "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+      "link": "https://www.techmeme.com/261101/p26#a261101p26",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-01T00:50:00-04:00",
-      "score": 5.884
+      "published": "2026-11-01T23:05:02-05:00",
+      "score": 5.733
     },
     {
-      "title": "The FBI attributes the $6B+ Binance hack to North Korea's TraderTraitor hacking group, which the agency also previously blamed for the ~$1.5B Bybit hack (Kevin Whitelaw/Bloomberg)",
-      "link": "https://www.techmeme.com/261031/p13#a261031p13",
+      "title": "AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures (Cailey Gleeson/Fierce Healthcare)",
+      "link": "https://www.techmeme.com/261101/p25#a261101p25",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-10-31T23:10:01-04:00",
-      "score": 5.537
+      "published": "2026-11-01T22:35:01-05:00",
+      "score": 5.628
     },
     {
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-01T02:19:53+00:00",
-      "score": 5.363
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-02T03:32:14+00:00",
+      "score": 5.619
     }
   ]
 }
