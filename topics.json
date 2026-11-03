@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-02T05:22:02.489194+00:00",
+  "generated_at": "2026-11-03T06:01:53.443354+00:00",
   "topics": [
     {
-      "title": "SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score (SemiAnalysis)",
-      "link": "https://www.techmeme.com/261102/p1#a261102p1",
+      "title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
+      "link": "https://www.techmeme.com/261103/p1#a261103p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-02T00:20:00-05:00",
-      "score": 5.993
+      "published": "2026-11-03T01:00:40-05:00",
+      "score": 5.996
     },
     {
-      "title": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M (Jeff John Roberts/Fortune)",
-      "link": "https://www.techmeme.com/261101/p27#a261101p27",
+      "title": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)",
+      "link": "https://www.techmeme.com/261102/p51#a261102p51",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-01T23:35:01-05:00",
-      "score": 5.837
+      "published": "2026-11-02T23:35:00-05:00",
+      "score": 5.698
     },
     {
-      "title": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
-      "link": "https://www.techmeme.com/261101/p26#a261101p26",
+      "title": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
+      "link": "https://www.techmeme.com/261102/p50#a261102p50",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-01T23:05:02-05:00",
-      "score": 5.733
+      "published": "2026-11-02T22:25:00-05:00",
+      "score": 5.455
     },
     {
-      "title": "AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures (Cailey Gleeson/Fierce Healthcare)",
-      "link": "https://www.techmeme.com/261101/p25#a261101p25",
+      "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
+      "link": "https://www.techmeme.com/261102/p49#a261102p49",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-01T22:35:01-05:00",
-      "score": 5.628
+      "published": "2026-11-02T22:10:00-05:00",
+      "score": 5.403
     },
     {
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-11-02T03:32:14+00:00",
-      "score": 5.619
+      "published": "2026-11-03T01:23:03+00:00",
+      "score": 5.032
     }
   ]
 }
