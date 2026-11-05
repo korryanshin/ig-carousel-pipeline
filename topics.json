@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-04T05:41:01.581373+00:00",
+  "generated_at": "2026-11-05T05:58:28.225216+00:00",
   "topics": [
     {
-      "title": "Q&A with Simile CEO Joon Sung Park on claims that its digital twins predict human behavior with 85%+ accuracy, its goal of simulating all 8B people, and more (Mario Gabriele/The Generalist)",
-      "link": "https://www.techmeme.com/261103/p49#a261103p49",
+      "title": "Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)",
+      "link": "https://www.techmeme.com/261105/p2#a261105p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-03T23:40:01-05:00",
-      "score": 5.788
+      "published": "2026-11-05T00:45:01-05:00",
+      "score": 5.953
     },
     {
-      "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
-      "link": "https://www.techmeme.com/261103/p48#a261103p48",
+      "title": "Microsoft previews using smartphones as controllers for Xbox Cloud Gaming on supported smart TVs and direct Wi-Fi cloud gaming support for the Nano Controller (XBOX Wire)",
+      "link": "https://www.techmeme.com/261105/p1#a261105p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-03T23:20:01-05:00",
-      "score": 5.719
+      "published": "2026-11-05T00:20:01-05:00",
+      "score": 5.866
     },
     {
-      "title": "Meta raised $15B in a US dollar bond sale; sources: the offering drew as much as $58B in orders and is the biggest portion of a $20B+ cross-border bond offering (Bloomberg)",
-      "link": "https://www.techmeme.com/261103/p47#a261103p47",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-03T22:55:01-05:00",
-      "score": 5.632
-    },
-    {
-      "title": "Jelly Sheet",
-      "link": "https://mrdoob.github.io/codevember-2026/01/",
+      "title": "Lemmings CSS Animation",
+      "link": "https://markblah.github.io/lemmings/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-04T03:40:50+00:00",
-      "score": 5.583
+      "published": "2026-11-05T04:54:10+00:00",
+      "score": 5.777
     },
     {
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-04T03:20:13+00:00",
-      "score": 5.511
+      "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
+      "link": "https://www.techmeme.com/261104/p66#a261104p66",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-04T23:35:00-05:00",
+      "score": 5.71
+    },
+    {
+      "title": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market (David Keohane/Financial Times)",
+      "link": "https://www.techmeme.com/261104/p65#a261104p65",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-04T23:15:02-05:00",
+      "score": 5.641
     }
   ]
 }
