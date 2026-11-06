@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-05T05:58:28.225216+00:00",
+  "generated_at": "2026-11-06T05:54:51.210117+00:00",
   "topics": [
     {
-      "title": "Sources: Microsoft rejects an option to more than double its Texas data center contract with Nscale, dealing a fresh blow to Nscale's ambitions for a $35B IPO (Financial Times)",
-      "link": "https://www.techmeme.com/261105/p2#a261105p2",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-05T00:45:01-05:00",
-      "score": 5.953
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-06T05:51:16+00:00",
+      "score": 5.988
     },
     {
-      "title": "Microsoft previews using smartphones as controllers for Xbox Cloud Gaming on supported smart TVs and direct Wi-Fi cloud gaming support for the Nano Controller (XBOX Wire)",
-      "link": "https://www.techmeme.com/261105/p1#a261105p1",
+      "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)",
+      "link": "https://www.techmeme.com/261106/p2#a261106p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-05T00:20:01-05:00",
-      "score": 5.866
+      "published": "2026-11-06T00:40:00-05:00",
+      "score": 5.948
     },
     {
-      "title": "Lemmings CSS Animation",
-      "link": "https://markblah.github.io/lemmings/",
+      "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
+      "link": "https://www.techmeme.com/261106/p1#a261106p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-06T00:00:13-05:00",
+      "score": 5.81
+    },
+    {
+      "title": "How accurately did science fiction stories predict AI?",
+      "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-05T04:54:10+00:00",
-      "score": 5.777
+      "published": "2026-11-06T04:36:22+00:00",
+      "score": 5.727
     },
     {
-      "title": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
-      "link": "https://www.techmeme.com/261104/p66#a261104p66",
+      "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
+      "link": "https://www.techmeme.com/261105/p70#a261105p70",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-04T23:35:00-05:00",
-      "score": 5.71
-    },
-    {
-      "title": "Sources: China has told SoftBank it will not allow the $5.4B acquisition of ABB's robotics division to go ahead; China is the division's biggest market (David Keohane/Financial Times)",
-      "link": "https://www.techmeme.com/261104/p65#a261104p65",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-04T23:15:02-05:00",
-      "score": 5.641
+      "published": "2026-11-05T23:05:09-05:00",
+      "score": 5.619
     }
   ]
 }
