@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-06T05:54:51.210117+00:00",
+  "generated_at": "2026-11-07T05:26:29.386632+00:00",
   "topics": [
     {
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-11-06T05:51:16+00:00",
-      "score": 5.988
-    },
-    {
-      "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)",
-      "link": "https://www.techmeme.com/261106/p2#a261106p2",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-06T00:40:00-05:00",
-      "score": 5.948
-    },
-    {
-      "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
-      "link": "https://www.techmeme.com/261106/p1#a261106p1",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-06T00:00:13-05:00",
-      "score": 5.81
-    },
-    {
-      "title": "How accurately did science fiction stories predict AI?",
-      "link": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+      "title": "Show HN: Did prediction markets do any predicting this midterms?",
+      "link": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-06T04:36:22+00:00",
-      "score": 5.727
+      "published": "2026-11-07T03:50:21+00:00",
+      "score": 5.666
     },
     {
-      "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
-      "link": "https://www.techmeme.com/261105/p70#a261105p70",
+      "title": "Lighting the Skies",
+      "link": "https://computer.rip/2026-10-25-searchlights.html",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-07T03:40:34+00:00",
+      "score": 5.632
+    },
+    {
+      "title": "Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China's top spy agency, MSS (Demetri Sevastopulo/Financial Times)",
+      "link": "https://www.techmeme.com/261106/p29#a261106p29",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-05T23:05:09-05:00",
-      "score": 5.619
+      "published": "2026-11-06T21:50:02-05:00",
+      "score": 5.457
+    },
+    {
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-07T02:20:06+00:00",
+      "score": 5.353
+    },
+    {
+      "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+      "link": "https://www.techmeme.com/261106/p28#a261106p28",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-06T20:50:00-05:00",
+      "score": 5.248
     }
   ]
 }
