@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-07T05:26:29.386632+00:00",
+  "generated_at": "2026-11-08T05:26:08.714094+00:00",
   "topics": [
     {
-      "title": "Show HN: Did prediction markets do any predicting this midterms?",
-      "link": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-07T03:50:21+00:00",
-      "score": 5.666
+      "published": "2026-11-08T04:14:12+00:00",
+      "score": 5.75
     },
     {
-      "title": "Lighting the Skies",
-      "link": "https://computer.rip/2026-10-25-searchlights.html",
+      "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
+      "link": "https://github.com/waywardgeek/ensemble",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-07T03:40:34+00:00",
-      "score": 5.632
+      "published": "2026-11-08T03:51:55+00:00",
+      "score": 5.673
     },
     {
-      "title": "Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China's top spy agency, MSS (Demetri Sevastopulo/Financial Times)",
-      "link": "https://www.techmeme.com/261106/p29#a261106p29",
+      "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
+      "link": "https://github.com/AmSach/maple",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-08T03:48:04+00:00",
+      "score": 5.659
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-08T03:11:48+00:00",
+      "score": 5.534
+    },
+    {
+      "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
+      "link": "https://www.techmeme.com/261107/p18#a261107p18",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-06T21:50:02-05:00",
-      "score": 5.457
-    },
-    {
-      "title": "The AI sell-off compared to well-known stock market crashes",
-      "link": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-07T02:20:06+00:00",
-      "score": 5.353
-    },
-    {
-      "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
-      "link": "https://www.techmeme.com/261106/p28#a261106p28",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-06T20:50:00-05:00",
-      "score": 5.248
+      "published": "2026-11-07T21:45:02-05:00",
+      "score": 5.441
     }
   ]
 }
