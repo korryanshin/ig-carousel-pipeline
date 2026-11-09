@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-08T05:26:08.714094+00:00",
+  "generated_at": "2026-11-09T05:37:19.671575+00:00",
   "topics": [
     {
-      "title": "Kirlian Photography: Building Your Own Equipment",
-      "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-08T04:14:12+00:00",
-      "score": 5.75
-    },
-    {
-      "title": "I Use Development-Driven Specs, Not Spec-Driven Development",
-      "link": "https://github.com/waywardgeek/ensemble",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-08T03:51:55+00:00",
-      "score": 5.673
-    },
-    {
-      "title": "Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU",
-      "link": "https://github.com/AmSach/maple",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-08T03:48:04+00:00",
-      "score": 5.659
-    },
-    {
-      "title": "Goodbye Claude, Hello Pi",
-      "link": "https://caleb.software/posts/claude-to-pi.html",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-08T03:11:48+00:00",
-      "score": 5.534
-    },
-    {
-      "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
-      "link": "https://www.techmeme.com/261107/p18#a261107p18",
+      "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+      "link": "https://www.techmeme.com/261109/p2#a261109p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-07T21:45:02-05:00",
-      "score": 5.441
+      "published": "2026-11-09T00:15:01-05:00",
+      "score": 5.923
+    },
+    {
+      "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+      "link": "https://www.techmeme.com/261109/p1#a261109p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-09T00:10:00-05:00",
+      "score": 5.905
+    },
+    {
+      "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+      "link": "https://www.techmeme.com/261108/p23#a261108p23",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-08T23:25:00-05:00",
+      "score": 5.749
+    },
+    {
+      "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+      "link": "https://www.techmeme.com/261108/p22#a261108p22",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-08T23:05:00-05:00",
+      "score": 5.679
+    },
+    {
+      "title": "A Critique of GPUI",
+      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-09T03:51:10+00:00",
+      "score": 5.631
     }
   ]
 }
