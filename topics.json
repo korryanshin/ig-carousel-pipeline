@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-09T05:37:19.671575+00:00",
+  "generated_at": "2026-11-10T06:46:28.466282+00:00",
   "topics": [
     {
-      "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
-      "link": "https://www.techmeme.com/261109/p2#a261109p2",
+      "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)",
+      "link": "https://www.techmeme.com/261110/p3#a261110p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-09T00:15:01-05:00",
-      "score": 5.923
+      "published": "2026-11-10T01:45:01-05:00",
+      "score": 5.995
     },
     {
-      "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
-      "link": "https://www.techmeme.com/261109/p1#a261109p1",
+      "title": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)",
+      "link": "https://www.techmeme.com/261110/p2#a261110p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-09T00:10:00-05:00",
-      "score": 5.905
+      "published": "2026-11-10T01:30:00-05:00",
+      "score": 5.943
     },
     {
-      "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
-      "link": "https://www.techmeme.com/261108/p23#a261108p23",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-08T23:25:00-05:00",
-      "score": 5.749
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "published": "2026-11-10T06:01:44+00:00",
+      "score": 5.845
     },
     {
-      "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
-      "link": "https://www.techmeme.com/261108/p22#a261108p22",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-08T23:05:00-05:00",
-      "score": 5.679
-    },
-    {
-      "title": "A Critique of GPUI",
-      "link": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-09T03:51:10+00:00",
-      "score": 5.631
+      "published": "2026-11-10T06:01:08+00:00",
+      "score": 5.843
+    },
+    {
+      "title": "The White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)",
+      "link": "https://www.techmeme.com/261110/p1#a261110p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-10T00:40:02-05:00",
+      "score": 5.769
     }
   ]
 }
