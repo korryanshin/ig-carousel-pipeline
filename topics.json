@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-10T06:46:28.466282+00:00",
+  "generated_at": "2026-11-11T05:34:19.684333+00:00",
   "topics": [
     {
-      "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)",
-      "link": "https://www.techmeme.com/261110/p3#a261110p3",
+      "title": "Sources: Jensen Huang's affair has significantly raised the chances of Congress enacting chip export limits this year via the National Defense Authorization Act (Politico)",
+      "link": "https://www.techmeme.com/261111/p1#a261111p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-10T01:45:01-05:00",
-      "score": 5.995
+      "published": "2026-11-11T00:05:26-05:00",
+      "score": 5.9
     },
     {
-      "title": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)",
-      "link": "https://www.techmeme.com/261110/p2#a261110p2",
+      "title": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday after the revelation of Jensen Huang's affair with Alice Huang, an alleged Chinese spy (April Roach/CNBC)",
+      "link": "https://www.techmeme.com/261110/p66#a261110p66",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-10T01:30:00-05:00",
-      "score": 5.943
+      "published": "2026-11-10T23:45:01-05:00",
+      "score": 5.829
     },
     {
-      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-11-10T06:01:44+00:00",
-      "score": 5.845
-    },
-    {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-10T06:01:08+00:00",
-      "score": 5.843
+      "published": "2026-11-11T04:28:57+00:00",
+      "score": 5.773
     },
     {
-      "title": "The White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)",
-      "link": "https://www.techmeme.com/261110/p1#a261110p1",
+      "title": "Source: CFTC warned Kalshi of possible imminent charges over failure to notify the regulator of certain products; Kalshi says it is addressing the issue (Declan Harty/Politico)",
+      "link": "https://www.techmeme.com/261110/p65#a261110p65",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-10T00:40:02-05:00",
-      "score": 5.769
+      "published": "2026-11-10T23:15:01-05:00",
+      "score": 5.725
+    },
+    {
+      "title": "Tech consultant Nima Momeni was sentenced to 16 years to life in prison for the second-degree murder of Cash App founder Bob Lee in 2023 (Heather Knight/New York Times)",
+      "link": "https://www.techmeme.com/261110/p64#a261110p64",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-10T22:20:14-05:00",
+      "score": 5.534
     }
   ]
 }
