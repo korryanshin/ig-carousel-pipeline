@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-12T06:39:49.008402+00:00",
+  "generated_at": "2026-11-13T05:56:41.860718+00:00",
   "topics": [
     {
-      "title": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
-      "link": "https://www.techmeme.com/261112/p4#a261112p4",
+      "title": "Nscale's updated IPO prospectus shows Q3 revenue up 1,344% YoY to $307.5M, up from $140.6M in Q2; net loss widened to $1.69B, up from $1.02B in Q2 (Jordan Novet/CNBC)",
+      "link": "https://www.techmeme.com/261113/p2#a261113p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-12T01:05:01-05:00",
-      "score": 5.879
+      "published": "2026-11-13T00:50:02-05:00",
+      "score": 5.977
     },
     {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "link": "https://www.getlazarus.org/forums/topic/17/",
+      "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option (Sarah Perez/TechCrunch)",
+      "link": "https://www.techmeme.com/261113/p1#a261113p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-13T00:05:01-05:00",
+      "score": 5.821
+    },
+    {
+      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "link": "https://github.com/pharma2a/pharma2a",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-12T05:49:34+00:00",
-      "score": 5.826
+      "published": "2026-11-13T04:58:53+00:00",
+      "score": 5.799
     },
     {
-      "title": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
-      "link": "https://www.techmeme.com/261112/p3#a261112p3",
+      "title": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
+      "link": "https://www.techmeme.com/261112/p74#a261112p74",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-12T00:45:05-05:00",
-      "score": 5.81
+      "published": "2026-11-12T23:45:01-05:00",
+      "score": 5.751
     },
     {
-      "title": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
-      "link": "https://www.techmeme.com/261112/p2#a261112p2",
+      "title": "Sources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks (Olivia Carville/Bloomberg)",
+      "link": "https://www.techmeme.com/261112/p73#a261112p73",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-12T00:35:00-05:00",
-      "score": 5.775
-    },
-    {
-      "title": "AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia's board weighs ousting CEO Huang (Financial Times)",
-      "link": "https://www.techmeme.com/261112/p1#a261112p1",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-12T00:25:01-05:00",
-      "score": 5.74
+      "published": "2026-11-12T23:15:00-05:00",
+      "score": 5.647
     }
   ]
 }
