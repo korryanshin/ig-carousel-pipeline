@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-13T05:56:41.860718+00:00",
+  "generated_at": "2026-11-14T05:46:10.023764+00:00",
   "topics": [
     {
-      "title": "Nscale's updated IPO prospectus shows Q3 revenue up 1,344% YoY to $307.5M, up from $140.6M in Q2; net loss widened to $1.69B, up from $1.02B in Q2 (Jordan Novet/CNBC)",
-      "link": "https://www.techmeme.com/261113/p2#a261113p2",
+      "title": "JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal (Tomoko Wakasugi/Nikkei Asia)",
+      "link": "https://www.techmeme.com/261114/p1#a261114p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-13T00:50:02-05:00",
-      "score": 5.977
+      "published": "2026-11-14T00:02:28-05:00",
+      "score": 5.848
     },
     {
-      "title": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option (Sarah Perez/TechCrunch)",
-      "link": "https://www.techmeme.com/261113/p1#a261113p1",
+      "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+      "link": "https://www.techmeme.com/261113/p42#a261113p42",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-13T00:05:01-05:00",
-      "score": 5.821
+      "published": "2026-11-13T23:25:01-05:00",
+      "score": 5.718
     },
     {
-      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
-      "link": "https://github.com/pharma2a/pharma2a",
+      "title": "Run Cloudflare Workers Anywhere",
+      "link": "https://openorange.dev/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-13T04:58:53+00:00",
-      "score": 5.799
+      "published": "2026-11-14T03:58:32+00:00",
+      "score": 5.626
     },
     {
-      "title": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
-      "link": "https://www.techmeme.com/261112/p74#a261112p74",
+      "title": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)",
+      "link": "https://www.techmeme.com/261113/p41#a261113p41",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-12T23:45:01-05:00",
-      "score": 5.751
+      "published": "2026-11-13T22:45:01-05:00",
+      "score": 5.579
     },
     {
-      "title": "Sources: social media companies' payouts in teen addiction suits mostly ranged from $2M-$2.5M; Meta agreed to pay two teens a combined $7M in the past two weeks (Olivia Carville/Bloomberg)",
-      "link": "https://www.techmeme.com/261112/p73#a261112p73",
+      "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
+      "link": "https://www.techmeme.com/261113/p40#a261113p40",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-12T23:15:00-05:00",
-      "score": 5.647
+      "published": "2026-11-13T22:10:01-05:00",
+      "score": 5.458
     }
   ]
 }
