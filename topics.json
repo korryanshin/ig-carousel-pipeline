@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-14T05:46:10.023764+00:00",
+  "generated_at": "2026-11-15T05:45:50.678621+00:00",
   "topics": [
     {
-      "title": "JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal (Tomoko Wakasugi/Nikkei Asia)",
-      "link": "https://www.techmeme.com/261114/p1#a261114p1",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-14T00:02:28-05:00",
-      "score": 5.848
-    },
-    {
-      "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
-      "link": "https://www.techmeme.com/261113/p42#a261113p42",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-13T23:25:01-05:00",
-      "score": 5.718
-    },
-    {
-      "title": "Run Cloudflare Workers Anywhere",
-      "link": "https://openorange.dev/",
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "link": "https://github.com/matheuzgomes/gawain",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-14T03:58:32+00:00",
-      "score": 5.626
+      "published": "2026-11-15T04:39:25+00:00",
+      "score": 5.769
     },
     {
-      "title": "Free speech group FIRE says DOJ and DHS will end efforts to curb \"ICE Sightings - Chicagoland\" Facebook group and Eyes Up iOS app, which report on ICE activity (Kanishka Singh/Reuters)",
-      "link": "https://www.techmeme.com/261113/p41#a261113p41",
+      "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+      "link": "https://www.techmeme.com/261114/p23#a261114p23",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-13T22:45:01-05:00",
-      "score": 5.579
+      "published": "2026-11-14T23:15:42-05:00",
+      "score": 5.687
     },
     {
-      "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
-      "link": "https://www.techmeme.com/261113/p40#a261113p40",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-13T22:10:01-05:00",
-      "score": 5.458
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-15T04:09:11+00:00",
+      "score": 5.664
+    },
+    {
+      "title": "Osint Case Studies",
+      "link": "https://osintsearch.org/blog/osint-case-studies",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-15T03:33:41+00:00",
+      "score": 5.541
+    },
+    {
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-15T03:05:54+00:00",
+      "score": 5.445
     }
   ]
 }
