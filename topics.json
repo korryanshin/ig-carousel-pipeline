@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-15T05:45:50.678621+00:00",
+  "generated_at": "2026-11-16T05:45:34.192894+00:00",
   "topics": [
     {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "link": "https://github.com/matheuzgomes/gawain",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-15T04:39:25+00:00",
-      "score": 5.769
-    },
-    {
-      "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
-      "link": "https://www.techmeme.com/261114/p23#a261114p23",
+      "title": "Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks (Ann Cao/South China Morning Post)",
+      "link": "https://www.techmeme.com/261116/p1#a261116p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-14T23:15:42-05:00",
-      "score": 5.687
+      "published": "2026-11-16T00:15:01-05:00",
+      "score": 5.894
     },
     {
-      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-15T04:09:11+00:00",
-      "score": 5.664
+      "title": "Qwen4-Max scores 43 on the Artificial Analysis Intelligence Index, beating Qwen3.8 Max at ~67% lower cost per task but trailing Kimi K3.1 Pro at ~11% lower cost (Artificial Analysis)",
+      "link": "https://www.techmeme.com/261115/p30#a261115p30",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-15T23:45:01-05:00",
+      "score": 5.79
     },
     {
-      "title": "Osint Case Studies",
-      "link": "https://osintsearch.org/blog/osint-case-studies",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-15T03:33:41+00:00",
-      "score": 5.541
+      "title": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)",
+      "link": "https://www.techmeme.com/261115/p29#a261115p29",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-15T23:40:00-05:00",
+      "score": 5.772
     },
     {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "title": "Stop Filming in Log",
+      "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-15T03:05:54+00:00",
-      "score": 5.445
+      "published": "2026-11-16T04:37:03+00:00",
+      "score": 5.762
+    },
+    {
+      "title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
+      "link": "https://www.techmeme.com/261115/p28#a261115p28",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-15T23:35:01-05:00",
+      "score": 5.755
     }
   ]
 }
