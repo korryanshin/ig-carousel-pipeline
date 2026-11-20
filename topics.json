@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-18T06:48:17.653039+00:00",
+  "generated_at": "2026-11-20T06:37:53.486478+00:00",
   "topics": [
     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-11-18T06:04:21+00:00",
-      "score": 5.847
-    },
-    {
-      "title": "The Solana Foundation takes a majority stake in CoinGecko, a popular crypto price-tracking platform with 18M registered users (Francisco Rodrigues/CoinDesk)",
-      "link": "https://www.techmeme.com/261118/p2#a261118p2",
+      "title": "Samsung names Choi Won-Joon head of its mobile division, replacing TM Roh, who stays as Samsung co-CEO, and Sang Joon Hwang to lead its memory business (Ben Schoon/9to5Google)",
+      "link": "https://www.techmeme.com/261120/p4#a261120p4",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-18T00:55:03-05:00",
-      "score": 5.815
+      "published": "2026-11-20T01:25:00-05:00",
+      "score": 5.955
     },
     {
-      "title": "Microsoft makes Word, Excel, and PowerPoint generally available inside Copilot, which CEO Satya Nadella calls \"the new OS for work\" (Nick Indge/Ars Technica)",
-      "link": "https://www.techmeme.com/261118/p1#a261118p1",
+      "title": "Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)",
+      "link": "https://www.techmeme.com/261120/p3#a261120p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-18T00:40:01-05:00",
-      "score": 5.763
+      "published": "2026-11-20T01:15:01-05:00",
+      "score": 5.921
     },
     {
-      "title": "Why Fibonacci?",
-      "link": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "title": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
+      "link": "https://www.techmeme.com/261120/p2#a261120p2",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-20T00:55:02-05:00",
+      "score": 5.851
+    },
+    {
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-18T05:35:02+00:00",
-      "score": 5.746
+      "published": "2026-11-20T05:46:01+00:00",
+      "score": 5.82
     },
     {
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-      "published": "2026-11-18T05:33:13+00:00",
-      "score": 5.739
+      "title": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)",
+      "link": "https://www.techmeme.com/261120/p1#a261120p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-20T00:45:01-05:00",
+      "score": 5.816
     }
   ]
 }
