@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-21T06:29:56.807675+00:00",
+  "generated_at": "2026-11-22T05:58:41.674651+00:00",
   "topics": [
     {
-      "title": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)",
-      "link": "https://www.techmeme.com/261121/p3#a261121p3",
+      "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
+      "link": "https://www.techmeme.com/261122/p2#a261122p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-21T01:10:02-05:00",
-      "score": 5.931
+      "published": "2026-11-22T00:50:01-05:00",
+      "score": 5.97
     },
     {
-      "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
-      "link": "https://www.techmeme.com/261121/p2#a261121p2",
+      "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
+      "link": "https://www.techmeme.com/261122/p1#a261122p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-21T01:00:55-05:00",
-      "score": 5.899
+      "published": "2026-11-22T00:45:01-05:00",
+      "score": 5.953
     },
     {
-      "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-      "link": "https://www.techmeme.com/261121/p1#a261121p1",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-21T00:15:00-05:00",
-      "score": 5.74
-    },
-    {
-      "title": "BlackBlaze now explicitly states selling your data for advertisement",
-      "link": "https://www.backblaze.com/company/policy/privacy",
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-21T03:23:16+00:00",
-      "score": 5.352
+      "published": "2026-11-22T04:04:56+00:00",
+      "score": 5.605
     },
     {
-      "title": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
-      "link": "https://www.techmeme.com/261120/p45#a261120p45",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-20T21:45:01-05:00",
-      "score": 5.219
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-22T03:07:27+00:00",
+      "score": 5.405
+    },
+    {
+      "title": "The Most Popular Car Colors in America",
+      "link": "https://www.iseecars.com/most-popular-car-colors-study",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-22T02:47:18+00:00",
+      "score": 5.335
     }
   ]
 }
