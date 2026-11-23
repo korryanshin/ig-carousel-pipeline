@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-22T05:58:41.674651+00:00",
+  "generated_at": "2026-11-23T06:50:31.773042+00:00",
   "topics": [
     {
-      "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
-      "link": "https://www.techmeme.com/261122/p2#a261122p2",
+      "title": "Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed (Lucinda Shen/Axios)",
+      "link": "https://www.techmeme.com/261123/p3#a261123p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-22T00:50:01-05:00",
-      "score": 5.97
+      "published": "2026-11-23T01:40:01-05:00",
+      "score": 5.963
     },
     {
-      "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
-      "link": "https://www.techmeme.com/261122/p1#a261122p1",
+      "title": "New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
+      "link": "https://www.techmeme.com/261123/p2#a261123p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-22T00:45:01-05:00",
-      "score": 5.953
+      "published": "2026-11-23T01:02:06-05:00",
+      "score": 5.832
     },
     {
-      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
-      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-22T04:04:56+00:00",
-      "score": 5.605
+      "title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised $20M in seed funding led by Insight Partners (Kyt Dotson/SiliconANGLE)",
+      "link": "https://www.techmeme.com/261123/p1#a261123p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-23T00:30:01-05:00",
+      "score": 5.72
     },
     {
-      "title": "Together.ai: Prompt Leakage for Requests",
-      "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-22T03:07:27+00:00",
-      "score": 5.405
+      "published": "2026-11-23T05:00:49+00:00",
+      "score": 5.619
     },
     {
-      "title": "The Most Popular Car Colors in America",
-      "link": "https://www.iseecars.com/most-popular-car-colors-study",
+      "title": "A Partial Evaluator for C",
+      "link": "https://phoenix.labri.fr/software/tempo/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-22T02:47:18+00:00",
-      "score": 5.335
+      "published": "2026-11-23T04:51:48+00:00",
+      "score": 5.588
     }
   ]
 }
