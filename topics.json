@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-23T06:50:31.773042+00:00",
+  "generated_at": "2026-11-24T09:16:59.960212+00:00",
   "topics": [
     {
-      "title": "Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed (Lucinda Shen/Axios)",
-      "link": "https://www.techmeme.com/261123/p3#a261123p3",
+      "title": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)",
+      "link": "https://www.techmeme.com/261124/p4#a261124p4",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-23T01:40:01-05:00",
-      "score": 5.963
+      "published": "2026-11-24T02:50:01-05:00",
+      "score": 5.698
     },
     {
-      "title": "New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
-      "link": "https://www.techmeme.com/261123/p2#a261123p2",
+      "title": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's \"engineering mindset\" overlooks human biology (Financial Times)",
+      "link": "https://www.techmeme.com/261124/p3#a261124p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-23T01:02:06-05:00",
-      "score": 5.832
+      "published": "2026-11-24T02:30:08-05:00",
+      "score": 5.629
     },
     {
-      "title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised $20M in seed funding led by Insight Partners (Kyt Dotson/SiliconANGLE)",
-      "link": "https://www.techmeme.com/261123/p1#a261123p1",
+      "title": "OpenRouter removes Together AI, Phala, and Novita over data policy violations; Novita says a misconfiguration sent some MiniMax requests to MiniMax official API (Bill Toulas/BleepingComputer)",
+      "link": "https://www.techmeme.com/261124/p2#a261124p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-23T00:30:01-05:00",
-      "score": 5.72
+      "published": "2026-11-24T01:55:01-05:00",
+      "score": 5.507
     },
     {
-      "title": "Yes, 17M lines of Lean is a lot",
-      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "title": "2035 Came Early",
+      "link": "https://fzakaria.com/2026/11/23/2035-came-early",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-23T05:00:49+00:00",
-      "score": 5.619
+      "published": "2026-11-24T06:30:33+00:00",
+      "score": 5.422
     },
     {
-      "title": "A Partial Evaluator for C",
-      "link": "https://phoenix.labri.fr/software/tempo/",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-23T04:51:48+00:00",
-      "score": 5.588
+      "published": "2026-11-24T05:15:22+00:00",
+      "score": 5.161
     }
   ]
 }
