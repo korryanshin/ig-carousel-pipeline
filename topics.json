@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-26T07:42:30.695729+00:00",
+  "generated_at": "2026-11-27T07:41:38.701103+00:00",
   "topics": [
     {
-      "title": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices (Wall Street Journal)",
-      "link": "https://www.techmeme.com/261126/p5#a261126p5",
+      "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
+      "link": "https://www.techmeme.com/261127/p2#a261127p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-26T02:30:01-05:00",
-      "score": 5.957
+      "published": "2026-11-27T02:30:00-05:00",
+      "score": 5.96
     },
     {
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
-      "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-26T07:05:59+00:00",
-      "score": 5.873
+      "published": "2026-11-27T06:53:52+00:00",
+      "score": 5.834
     },
     {
-      "title": "Moat: Your OpenRouter Replacement",
-      "link": "https://commandcode.ai/moat",
+      "title": "The group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-26T06:32:48+00:00",
-      "score": 5.758
+      "published": "2026-11-27T06:44:34+00:00",
+      "score": 5.802
     },
     {
-      "title": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts (Emily Herbert/Financial Times)",
-      "link": "https://www.techmeme.com/261126/p4#a261126p4",
+      "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
+      "link": "https://www.techmeme.com/261127/p1#a261127p1",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-26T01:20:05-05:00",
-      "score": 5.714
+      "published": "2026-11-27T00:45:01-05:00",
+      "score": 5.595
     },
     {
-      "title": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals (Jonathan Greig/The Record)",
-      "link": "https://www.techmeme.com/261126/p3#a261126p3",
-      "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-26T01:00:48-05:00",
-      "score": 5.647
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "source": "https://hnrss.org/frontpage",
+      "published": "2026-11-27T05:22:06+00:00",
+      "score": 5.515
     }
   ]
 }
