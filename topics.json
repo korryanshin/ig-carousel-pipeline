@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-11-27T07:41:38.701103+00:00",
+  "generated_at": "2026-11-28T07:09:29.486864+00:00",
   "topics": [
     {
-      "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
-      "link": "https://www.techmeme.com/261127/p2#a261127p2",
+      "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
+      "link": "https://www.techmeme.com/261128/p3#a261128p3",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-27T02:30:00-05:00",
-      "score": 5.96
+      "published": "2026-11-28T01:45:01-05:00",
+      "score": 5.915
     },
     {
-      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-      "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-27T06:53:52+00:00",
-      "score": 5.834
-    },
-    {
-      "title": "The group chat where your AI talks behind your back",
-      "link": "https://construct22.com/",
-      "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-27T06:44:34+00:00",
-      "score": 5.802
-    },
-    {
-      "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
-      "link": "https://www.techmeme.com/261127/p1#a261127p1",
+      "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
+      "link": "https://www.techmeme.com/261128/p2#a261128p2",
       "source": "https://www.techmeme.com/feed.xml",
-      "published": "2026-11-27T00:45:01-05:00",
-      "score": 5.595
+      "published": "2026-11-28T01:25:04-05:00",
+      "score": 5.846
     },
     {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+      "link": "https://www.techmeme.com/261128/p1#a261128p1",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-28T00:50:02-05:00",
+      "score": 5.724
+    },
+    {
+      "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+      "link": "https://www.techmeme.com/261127/p17#a261127p17",
+      "source": "https://www.techmeme.com/feed.xml",
+      "published": "2026-11-27T22:35:05-05:00",
+      "score": 5.256
+    },
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "link": "https://unkernel.dev",
       "source": "https://hnrss.org/frontpage",
-      "published": "2026-11-27T05:22:06+00:00",
-      "score": 5.515
+      "published": "2026-11-28T03:19:20+00:00",
+      "score": 5.201
     }
   ]
 }
